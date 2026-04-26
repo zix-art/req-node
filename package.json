@@ -1,0 +1,22 @@
+{
+  "name": "req-node", 
+  "version": "1.0.0",
+  "description": "Modul HTTP request ringan dengan fitur auto-retry dan timeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "request",
+    "retry",
+    "lightweight"
+  ],
+  "author": "pecelteam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USERNAME_KAMU/kurir-fetch.git"
+  }
+}
